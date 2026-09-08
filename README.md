@@ -312,6 +312,7 @@ DeepTrace 的统计与洞察**不是让另一个 AI 随机点评你的数据**�
 ```sh
 dsh plugin --profile web add "github:SenmuuuuW/dsh-whale-report"
 # 重启 dsh web 使宿主代码生效；客户端 bundle 随插件自动更新
+[![DSH Insights health](https://dsh-insights.com/badge/SenmuuuuW/dsh-whale-report.svg)](https://dsh-insights.com/p/SenmuuuuW/dsh-whale-report/)
 ```
 
 **② npm 包安装（仅依赖）** —— 把包装进你的项目：
